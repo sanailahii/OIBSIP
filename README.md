@@ -39,6 +39,7 @@ a. Following the outbreak of COVID-19, there was a noticeable spike in the unemp
 b. The unemployment rate showed variability during the post-COVID period, likely due to lockdown measures, economic slowdowns, and gradual recovery efforts.
 
 **3. Comparative Analysis:**
+
 A comparison of the average unemployment rates before and after COVID-19 reveals a significant increase in unemployment during the post-pandemic period, highlighting the pandemic's severe impact on the labor market.
 
 **Outcome:**
