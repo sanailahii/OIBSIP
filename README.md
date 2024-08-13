@@ -1,5 +1,6 @@
 # OIBSIP
 **Data Overview:**
+
 Two datasets were provided for this analysis:
 1. "Unemployment in India.csv": Contains region-wise unemployment data with corresponding dates.
 2. "Unemployment_Rate_upto_11_2020.csv": Contains similar unemployment data, focusing on a different or overlapping time frame.
@@ -15,11 +16,15 @@ These datasets were combined, and redundant records were removed to create a com
 **Analysis Methodology:**
 
 **1. Monthly Aggregation:**
+
 a. The data was resampled to calculate the mean unemployment rate for each month.
+
 b. The average monthly unemployment rates for both pre-COVID and post-COVID periods were computed to assess the impact of the pandemic.
 
 **2. Visualization:**
+
 a. The analysis was visualized using bar graphs, showing the unemployment rates on a monthly basis for both periods.
+
 b. The graphs highlight the trend in unemployment rates over time, with a vertical red line marking the onset of COVID-19 (March 2020).
 
 **Key Findings:**
@@ -28,7 +33,9 @@ b. The graphs highlight the trend in unemployment rates over time, with a vertic
 The average unemployment rate before March 2020 exhibited some fluctuations but remained relatively stable.
 
 **2. Post-COVID-19 Period:**
+
 a. Following the outbreak of COVID-19, there was a noticeable spike in the unemployment rate, reflecting the adverse effects of the pandemic on employment in India.
+
 b. The unemployment rate showed variability during the post-COVID period, likely due to lockdown measures, economic slowdowns, and gradual recovery efforts.
 
 **3. Comparative Analysis:**
