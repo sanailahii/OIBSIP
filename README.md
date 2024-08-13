@@ -42,6 +42,10 @@ b. The unemployment rate showed variability during the post-COVID period, likely
 
 A comparison of the average unemployment rates before and after COVID-19 reveals a significant increase in unemployment during the post-pandemic period, highlighting the pandemic's severe impact on the labor market.
 
+Here's the link to Google Colab which includes all the code and graph:
+
+https://colab.research.google.com/drive/1XAutI-5vwYDrlCyyo8HqVlQByZudSIDr#scrollTo=qLwMt6A2jqq9
+
 **Outcome:**
 
 The analysis clearly demonstrates the economic disruption caused by COVID-19, as evidenced by the sharp rise in unemployment rates post-March 2020. This trend underscores the need for targeted economic policies and interventions to support the recovery of the labor market in India. The visualization of unemployment trends provides a clear picture of the challenges faced during the pandemic and can serve as a basis for future policy-making and economic forecasting.
